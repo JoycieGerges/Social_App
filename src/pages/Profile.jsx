@@ -1,10 +1,10 @@
 import { FiHome, FiSend, FiUsers, FiFileText } from "react-icons/fi";
 import { LuUser , LuExpand } from "react-icons/lu";
 import { FaRegComment, FaUsers } from "react-icons/fa6";
-import DefaultProfile from "../assets/images/default-profile.png";
+import DefaultProfile from "../assets/Images/default-profile.png";
 import { IoIosMenu } from "react-icons/io";
 import { IoSettingsOutline } from "react-icons/io5";
-import routeImg from "../assets/images/route.png";
+import routeImg from "../assets/Images/route.png";
 import { Link } from "react-router-dom";
 import { useState, useRef, useEffect } from "react";
 import { CiCamera, CiMail, CiBookmark } from "react-icons/ci";

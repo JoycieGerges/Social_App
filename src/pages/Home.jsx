@@ -1,9 +1,9 @@
 import React, { useState, useRef, useEffect } from "react";
-import routeImg from "../assets/images/route.png";
+import routeImg from "../assets/Images/route.png";
 import { FiHome, FiSend, FiThumbsUp } from "react-icons/fi";
 import { LuUser, LuEarth } from "react-icons/lu";
 import { FaRegComment } from "react-icons/fa6";
-import DefaultProfile from "../assets/images/default-profile.png";
+import DefaultProfile from "../assets/Images/default-profile.png";
 import { CiBookmark, CiSearch, CiFaceSmile, CiImageOn } from "react-icons/ci";
 import { RiUserAddLine } from "react-icons/ri";
 import { TbUsers } from "react-icons/tb";
