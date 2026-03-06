@@ -7,8 +7,7 @@ Social App is a modern social media web application built with React. It allows 
 # 🌍 Live Demo
 
 Check out the live website here:
-[https://your-vercel-link.vercel.app](https://social-app-idh2.vercel.app/signup)
-
+https://social-app-idh2.vercel.app/signup
 ---
 
 # 📱 Features
