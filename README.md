@@ -1,21 +1,76 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌐 Social App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Social App is a modern social media web application built with React. It allows users to share posts, interact with the community through likes and comments, and manage their personal profiles. The app integrates with REST APIs to handle authentication, posts, and user interactions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🌍 Live Demo
 
-## React Compiler
+Check out the live website here:
+[https://your-vercel-link.vercel.app](https://social-app-idh2.vercel.app/signup)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# 📱 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Social_App
-A social media platform built with React that allows users to share posts, interact through likes and comments, and manage their profiles.
->>>>>>> 18ce53468827bee60477ffb21a21471f3bd4b700
+📝 Create and share posts
+
+❤️ Like / Unlike posts
+
+💬 Add comments and interact with posts
+
+👤 User profile with profile picture
+
+🌎 View community posts and personal posts
+
+⚡ Responsive and interactive user interface
+
+---
+
+# 🛠️ Tech Stack
+
+React – Frontend framework
+
+JavaScript (ES6) – Application logic
+
+HTML5 / CSS3 – Structure and styling
+
+React Router – Navigation and routing
+
+REST API – Backend communication
+
+LocalStorage – Token management
+
+---
+
+# 🚀 Getting Started
+
+To run the project locally:
+
+Clone the repository
+
+git clone https://github.com/JoycieGerges/Social_App.git
+
+Install dependencies
+
+npm install
+
+Run the development server
+
+npm run dev
+
+Open in your browser
+
+http://localhost:5173
+
+---
+
+# 🧠 Author
+
+Developed by Joycie Gerges
+
+📧 Email: joyciegerges@gmail.com
+
+🌐 Portfolio: https://joycieportfolio.netlify.app/
+
+🔗 LinkedIn: https://www.linkedin.com/in/joycie-gerges-b45514248
