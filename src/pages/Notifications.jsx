@@ -2,7 +2,7 @@ import routeImg from "../assets/Images/route.png";
 import { FiHome } from "react-icons/fi";
 import { LuUser, LuCheckCheck } from "react-icons/lu";
 import { FaRegComment } from "react-icons/fa6";
-import DefaultProfile from "../assets/images/default-profile.png";
+import DefaultProfile from "../assets/Images/default-profile.png";
 import { IoIosMenu } from "react-icons/io";
 import { IoSettingsOutline } from "react-icons/io5";
 import { Link } from "react-router-dom";
