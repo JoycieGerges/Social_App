@@ -1,4 +1,4 @@
-import routeImg from "../assets/images/route.png";
+import routeImg from "../assets/Images/route.png";
 import { FiHome } from "react-icons/fi";
 import { LuUser, LuCheckCheck } from "react-icons/lu";
 import { FaRegComment } from "react-icons/fa6";
